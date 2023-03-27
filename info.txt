@@ -1,0 +1,25 @@
+✅ What is a loan prediction system?
+A mechanism called the Loan Prediction System allows you to apply for loans and receive notifications when they are approved. By the data provided by the applicant, the system notifies the applicant of the loan's availability.
+
+✅ What is Numpy?
+NumPy is a Python library used for working with arrays.It also has functions for working in the domain of linear algebra and matrices. It is an open-source project and you can use it freely. NumPy stands for Numerical Python.
+
+✅ What is Pandas?
+ Pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series.
+
+✅ What is Matplotlib?
+Python scripts can be used to create 2D graphs and plots using the Matplotlib module. With features to control line styles, font attributes, formatting axes, and other features, it offers a module called plot that makes things simple for plotting.
+
+✅ What is Seaborn?
+An open-source Python library based on matplotlib is called Seaborn. It is utilized for data exploration and data visualization. With data frames and the Pandas library, Seaborn functions with ease
+
+np.log : helps in calculating natural log of all input
+
+
+.hist(bins=) is a method in Python's Matplotlib library used to create a histogram. A histogram is a graph that displays the distribution of a set of continuous numerical data.
+
+The bins parameter in .hist(bins=) specifies the number of bins to use in the histogram. A bin is a range of values in the data that is grouped together for visualization purposes. The value of bins can be an integer, a sequence, or a string. If it is an integer, it specifies the number of equal-width bins in the range of the data. If it is a sequence, it specifies the edges of the bins. If it is a string, it specifies the method to use to calculate the bins, such as "auto", "fd", "sturges", "sqrt", etc.
+
+iloc : defined in the pandas module that helps us to select any particular row or column from our data set
+
+sklearn(scykit learn) : is one of the most robust lib for learning machine learning , open source , built upon numpy, scipy and matpolt.lib , provides various tools for modelling.
